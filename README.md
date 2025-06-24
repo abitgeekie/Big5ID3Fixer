@@ -1,7 +1,7 @@
 # Big5 ID3 Fixer
-Big5ID3Fixer is a Python program to fix the Korean encoding issue for ID3 attributes for MP3 files. This provides an easy-to-use solution for updating the metadata of songs in a folder.
+Big5ID3Fixer is a Python program to fix the Chinese encoding issue for ID3 attributes for MP3 files. This provides an easy-to-use solution for updating the metadata of songs in a folder.
 
-這是一個用來解決 MP3 檔案中 ID3 標籤中文編碼問題的 Python 程式。它提供了一個容易使用的解決方案，用於更新資料夾內歌曲的中繼資料。
+這是一個用來解決在Unicode普及之前(如Windows 95時代)所產生的 MP3 檔案中 ID3 標籤，在現代Unicode系統裡以亂碼呈現的問題。這 Python 程式提供了一個可行的解決方案，用於更新資料夾內歌曲的中繼資料。
 
 ---
 ### Features (特點)
